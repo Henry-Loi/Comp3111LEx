@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b591d495-5687-454e-8ce0-d0e40a81d441" name="Changes" comment="">
+    <list default="true" id="b591d495-5687-454e-8ce0-d0e40a81d441" name="Changes" comment="Add 3rd print line">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lab1/mainApp1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lab1/mainApp1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lab1/mainApp1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Lab1/mainApp1.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +80,15 @@
       <updated>1694184211808</updated>
       <workItem from="1694184212769" duration="4381000" />
     </task>
+    <task id="LOCAL-00001" summary="Add 3rd print line">
+      <option name="closed" value="true" />
+      <created>1694569349278</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1694569349278</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,5 +104,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add 3rd print line" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add 3rd print line" />
   </component>
 </project>
